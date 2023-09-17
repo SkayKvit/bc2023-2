@@ -1,3 +1,3 @@
 http://backend.course/SkayKvit
 http://backend.course/"ÐÐ¸Ð·ÑÐºÐ¾ÑÐ°Ð¿ÐºÐ° ÐÐ»ÐµÐºÑÐ°Ð½Ð´Ñ"/SkayKvit/"Ð¤ÐÐ-22Ñ"/"ÐÑÐ´Ð³ÑÑÐ¿Ð° 1"
-
+https://bank.gov.ua/NBUStatService/v1/statdirectory/res?date=201905&json
